@@ -1,0 +1,11 @@
+1. 모델찾기 ex) xgboost
+
+2. 결측치 
+	imputation
+	knn 등
+
+3. 라벨 밸런싱
+
+4. lw에 관한 인사이트로 범주 재분류
+
+5. 스케쥴 - xgboost
